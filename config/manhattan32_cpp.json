@@ -29,11 +29,11 @@
         "cell_multiplier": 0.4
     },
     "trainer_params": {
-        "batch_size": 128,
+        "batch_size": 12000,
         "num_steps": 2e6,
         "rm_pre_fill_ratio": 0.5,
         "rm_pre_fill_random": true,
-        "eval_period": 5,
+        "eval_period": 1005,
         "rm_size": 50000,
         "load_model": ""
     },
