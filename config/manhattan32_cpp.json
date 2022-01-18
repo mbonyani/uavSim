@@ -29,7 +29,7 @@
         "cell_multiplier": 0.4
     },
     "trainer_params": {
-        "batch_size": 16000,
+        "batch_size": 8,
         "num_steps": 2e6,
         "rm_pre_fill_ratio": 0.5,
         "rm_pre_fill_random": true,
